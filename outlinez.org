@@ -1,0 +1,40 @@
+outlinzes
+
+* paper
+** TODO first submission
+   DEADLINE: <2015-06-05 Fri>
+
+*** TODO look into habitrpg
+    DEADLINE: <2015-05-26 Tue>
+    -fork it
+    -serve it
+    -love it
+
+*** profiling system
+**** Habitrpg
+     mabe can use for our system
+
+*** assignments
+
+**** soft skills
+
+***** study 
+
+***** comm
+
+***** time management
+
+**** hard skills
+     science things
+
+***** matlab
+
+***** CAD
+
+***** problem solving
+
+**** career prep
+
+***** resume
+
+***** career fair
