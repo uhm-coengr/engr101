@@ -6,9 +6,7 @@ outlinzes
 
 *** TODO look into habitrpg
     DEADLINE: <2015-05-26 Tue>
-    -fork it
-    -serve it
-    -love it
+    -fork it serve it love it
 
 **** Notes
      
@@ -18,19 +16,20 @@ outlinzes
      maybe can use for our system
 
 *** assignments
+
+**** brain dump
     + "if I knew what I could do with what I was learning?"
       - this should be the motivation for designing the assignments
       - practical application
       - identify small practical things that add up/connect/combine captain planet
-      - "I want them to see the path to a better world" -jill
+    
+    + "I want them to see the path to a better world" -jill
+      - you  can make anything better! all the things!
 
-	- you  can make anything better! all the things!
-
-      - assignments dont need to be fancy but they should be meaningfull (like the speakers) and they should connect to something fancy cat
+    + assignments dont need to be fancy but they should be meaningfull (like the speakers) and they should connect to something fancy cat
       - should require calculations, trials/experiments, analysis, mathematical modelling
       - breadth - civil,mech,ee,comp etc
       - daily thing that brings the boys to the yard milkshakes
-      - i fail if they fail and vice versa
       - "make it yours"
       - teach people to breakdown problems/expressions into easier english/pictures/stuff to understand
       - find things that each student values
@@ -38,25 +37,18 @@ outlinzes
 
 	  - everyone should know someone so that they feel like they belong to the community
 
-      - we should as questions/ start discussions/ diareah mouth
+    + i fail if they fail and vice versa
+    + we should as questions/ start discussions/ diareah mouth
+    + how do we teach people to apply their knowledge to other stuff 
+    + is this class just about getting them to experience being successful at hard stuff? to gain confidence that they can do it with time?
+      - hard stuff = various engineerings, math, and other generic hard stuff
 
-      - how do we teach people to apply their knowledge to other stuff 
-
-      - is this class just about getting them to experience being successful at hard stuff? to gain confidence that they can do it with time?
-
-	- hard stuff = various engineerings, math, and other generic hard stuff
-
-      - failure is not bad. you learn stuff. like iteration process. engineers are master failures. it doesnt work until it does.
-
-      - undergrads are like pets. they cant tell you what is wrong with them. sometimes its like they dont know enough to tell you what is wrong.
-
-	- soft skills = self reflection, situational awareness, understand themselves and how that relates to everything around them
-
-	- learn to aks, how to ask, how to find who to ask
-
-      - i need stories to tell...as examples of stuff... cause fun and learning and meaningful and feels
-
-	- hard student life problems, engineering experiences, reasons to work hard
+    + failure is not bad. you learn stuff. like iteration process. engineers are master failures. it doesnt work until it does.
+    + undergrads are like pets. they cant tell you what is wrong with them. sometimes its like they dont know enough to tell you what is wrong.
+    + soft skills = self reflection, situational awareness, understand themselves and how that relates to everything around them
+    + learn to aks, how to ask, how to find who to ask
+    + i need stories to tell...as examples of stuff... cause fun and learning and meaningful and feels
+      - hard student life problems, engineering experiences, reasons to work hard
 
 
 
