@@ -4,6 +4,39 @@ outlinzes
 * paper
 ** TODO first submission
    DEADLINE: <2015-06-05 Fri>
+*** draft
+
+**** intro
+     + motiviation
+       + what sucks
+       + what would any of this change for the better
+     + lit review
+       + what has been done before
+       + why is this a good idea
+       + what the heck is this
+     + what we actually will talk about in the paper
+       + explain gamification and what we intend to do with it
+       + how to leverage habitrpg for engr101
+       + examples of stuff that will happen in class
+       + how we are going to tell if any of this is actually gonna help
+
+**** class
+     + explanation of the class goals
+     + class size
+     + class setup
+       + lecture times, lab times
+
+**** gamification
+     + what it is
+     + what people use it for
+     + why this works for education
+     + what added value!?
+
+**** gamified class feature
+     + this part will be hardest part
+**** assessment
+     + this part dont worry about
+**** conclusion
 
 *** TODO look into habitrpg
     DEADLINE: <2015-05-26 Tue>
