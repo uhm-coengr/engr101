@@ -1,0 +1,19 @@
+
+* web
+
+** [[http://codingconduct.cc/][Sebastian Deterding]] 
+   - an editor of "The Gameful World"
+
+** [[http://spw.playbe.com/][Steffen P. Walz]]
+   - an editor of "The Gameful World"
+
+** [[http://gamelab.mit.edu/][MIT gamelab]]
+
+** [[https://esd.mit.edu/Faculty_Pages/klopfer/klopfer.html][Klopfer]]
+   - MIT professor
+
+** [[http://www.gameslearningsociety.org/index.php][Games Learning Society]]
+
+* books
+
+** [[http://mitpress.mit.edu/books/gameful-world][The Gameful World]]
