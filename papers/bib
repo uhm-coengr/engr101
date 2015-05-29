@@ -1,0 +1,49 @@
+
+@article{va-2014,
+doi	= {10.1080/10494820.2012.707128},
+title	= {Introducing serious games with Wikis: empowering the teacher with simple technologies},
+author	= {van Rosmalen, Peter; Westera, Wim},
+publisher	= {Taylor and Francis Group},
+journal	= {Interactive Learning Environments},
+issnp	= {1049-4820},
+issne	= {1744-5191},
+year	= {2014},
+month	= {09},
+day	= {03},
+volume	= {22},
+issue	= {5},
+page	= {564--577},
+url =       {http://gen.lib.rus.ec/scimag/index.php?s=10.1080/10494820.2012.707128},
+}
+
+@article{nicholson2012user,
+  title={A user-centered theoretical framework for meaningful gamification},
+  author={Nicholson, Scott},
+  journal={Games+ Learning+ Society},
+  volume={8},
+  number={1},
+  year={2012}
+}
+
+@inproceedings{deterding2013skill,
+  title={Skill atoms as design lenses for user-centered gameful design},
+  author={Deterding, Sebastian},
+  booktitle={Workshop Papers CHI2013},
+  year={2013}
+}
+
+@incollection{nicholson2015recipe,
+  title={A recipe for meaningful gamification},
+  author={Nicholson, Scott},
+  booktitle={Gamification in Education and Business},
+  pages={1--20},
+  year={2015},
+  publisher={Springer}
+}
+
+@article{deterding2014eudaimonic,
+  title={Eudaimonic Design, or: Six Invitations to Rethink Gamification},
+  author={Deterding, Sebastian},
+  year={2014},
+  publisher={Eudaimonic Design, or: Six Invitations to Rehtink Gamification. In: Rethinking Gamification. Edited by Mathias Fuchs, Sonia Fizek, Paolo Ruffino, Niklas Schrape. L{\"u}neburg: meson press}
+}

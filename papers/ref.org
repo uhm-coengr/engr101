@@ -12,8 +12,14 @@
 ** [[https://esd.mit.edu/Faculty_Pages/klopfer/klopfer.html][Klopfer]]
    - MIT professor
 
-** [[http://www.gameslearningsociety.org/index.php][Games Learning Society]]
+** [[http://www.scottnicholson.com/][Scott Nicholson]]
+   - [[http://www.scottnicholson.com/pubs/][publications]]
 
 * books
 
 ** [[http://mitpress.mit.edu/books/gameful-world][The Gameful World]]
+
+* papers
+** [[docview:Framework-for-Meaningful-Gamifications.pdf::1][nicholson2012user]] :: Framework for Meaningful Gamifications
+
+** nicholson2015recipe :: A recipfe for meaningful gamification
